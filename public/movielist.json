@@ -1,0 +1,68 @@
+﻿[
+  {
+    "movie_name": "10 Cloverfield Lane",
+    "movie_year": "2016",
+    "movie_category": "Drama,Horror,Mystery,Science Fiction,Thriller",
+    "movie_image": "images/10 Cloverfield Lane (2016) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "12 Years a Slave",
+    "movie_year": "2013",
+    "movie_category": "Biography,Drama,History",
+    "movie_image": "images/12 Years a Slave (2013) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "127 Hours",
+    "movie_year": "2010",
+    "movie_category": "Adventure,Biography,Drama,Thriller",
+    "movie_image": "images/127 Hours (2010) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "13 Hours - The Secret Soldiers of Benghazi",
+    "movie_year": "2016",
+    "movie_category": "Action,Drama,History,Thriller,War",
+    "movie_image": "images/13 Hours - The Secret Soldiers of Benghazi (2016) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "17 Again",
+    "movie_year": "2009",
+    "movie_category": "Comedy,Drama,Family,Fantasy",
+    "movie_image": "images/17 Again (2009) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "20,000 Days on Earth",
+    "movie_year": "2014",
+    "movie_category": "Documentary,Drama,Music",
+    "movie_image": "images/20,000 Days on Earth (2014) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "3 Days to Kill",
+    "movie_year": "2014",
+    "movie_category": "Action,Drama,Thriller",
+    "movie_image": "images/3 Days to Kill (2014) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "3 Women",
+    "movie_year": "1977",
+    "movie_category": "Drama,Mystery,Thriller",
+    "movie_image": "images/3 Women (1977) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "The 33",
+    "movie_year": "2015",
+    "movie_category": "Biography,Drama,History",
+    "movie_image": "images/The 33 (2015) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "3D Safari - Africa",
+    "movie_year": "2011",
+    "movie_category": "Documentary,Adventure,Reality TV",
+    "movie_image": "images/3D Safari - Africa (2011) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  },
+  {
+    "movie_name": "42",
+    "movie_year": "2013",
+    "movie_category": "Biography,Drama,Sport",
+    "movie_image": "images/42 (2013) h264-1080p AAC-2ch-POSTER.thumb.jpg"
+  }
+ ]
